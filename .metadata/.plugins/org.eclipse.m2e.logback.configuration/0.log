@@ -1,0 +1,10 @@
+2014-06-23 18:01:13,036 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.NHNENTER:ToastRookie:1.0.0-BUILD-SNAPSHOT @ /Users/Kunyoung/Desktop/NHN/Pretest/PretestServer/pom.xml.
+2014-06-23 18:01:15,518 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-23 18:01:15,526 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-06-23 18:01:15,546 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-23 18:01:15,547 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-06-23 18:01:16,282 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.NHNENTER:ToastRookie:1.0.0-BUILD-SNAPSHOT @ /Users/Kunyoung/Desktop/NHN/Pretest/PretestServer/pom.xml.
+2014-06-23 18:01:22,421 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-23 18:01:22,450 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-06-23 18:01:22,463 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2014-06-23 18:01:22,465 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

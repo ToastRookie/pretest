@@ -1,0 +1,36 @@
+!SESSION 2014-06-23 17:56:26.296 -----------------------------------------------
+eclipse.buildId=3.3.0.201307091644-RELEASE-e43
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-06-23 17:56:57.881
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-23 17:57:09.026
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-23 17:57:09.026
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2014-06-23 17:57:09.026
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-23 17:57:09.026
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2014-06-23 17:57:09.026
+!MESSAGE Converted legacy STS plugin state locations
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2014-06-23 17:58:36.120
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-06-23 18:01:15.519
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-06-23 18:01:15.546
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-06-23 18:01:22.421
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-06-23 18:01:22.464
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
