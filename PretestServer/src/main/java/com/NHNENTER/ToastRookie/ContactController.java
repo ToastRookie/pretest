@@ -12,7 +12,7 @@ import com.NHNENTER.ToastRookie.Model.Contact;
 @Controller
 
 class ContactController {
-
+	
     @RequestMapping(value = "/addContact", method = RequestMethod.POST)   
     public String addContact(@ModelAttribute("contact")   
                         Contact contact, BindingResult result) {       
@@ -26,4 +26,5 @@ class ContactController {
 	public ModelAndView showContacts() {
 		return new ModelAndView("contact", "command", new Contact());
 	}
+	
 }
