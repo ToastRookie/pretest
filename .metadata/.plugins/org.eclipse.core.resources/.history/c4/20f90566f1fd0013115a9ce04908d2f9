@@ -1,0 +1,22 @@
+<%@page import="java.util.ArrayList"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	import="java.util.List" pageEncoding="UTF-8"%>
+<%@ page import="com.NHNENTER.ToastRookie.Model.*"%>
+<% ArrayList<Board> boards = (ArrayList<Board>)request.getAttribute("boards"); 
+        int i=1 ; 
+       for(Board board : boards) { %>
+<tr>
+	<td><%= board.getContent() %></td>
+	<td><%= board.getEmail() %></td>
+	<td><%= board.getDate_created() %></td>
+	
+	<input type="button" onclick=board.getEmail(); value="수정"> 
+	<!-- <td>
+		<div class="checkbox">
+			<label> <input type="checkbox">
+			</label>
+		</div>
+	</td> -->
+</tr>
+<% } %>
+

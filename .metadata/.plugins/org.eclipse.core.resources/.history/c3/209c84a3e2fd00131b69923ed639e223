@@ -1,0 +1,9 @@
+package com.NHNENTER.ToastRookie.Model;
+
+public class Board {
+	String email;
+	String password;
+	String content;
+	String date_created;
+	String date_changed;
+}

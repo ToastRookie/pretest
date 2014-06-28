@@ -1,0 +1,9 @@
+package com.NHNENTER.ToastRookei.DB;
+
+import com.NHNENTER.ToastRookie.Model.Board;
+
+public class DBController {
+	void insertBoard(Board board){
+		
+	}
+}

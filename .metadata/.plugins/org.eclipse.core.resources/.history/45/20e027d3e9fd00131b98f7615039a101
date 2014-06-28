@@ -1,0 +1,85 @@
+package com.NHNENTER.ToastRookei.DB;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.Calendar;
+
+import com.NHNENTER.ToastRookie.Model.Board;
+
+public class DBController {
+	Connection con;
+	public void insertBoard(Board board) {
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			con = DriverManager
+					.getConnection(
+							"jdbc:mysql://127.0.0.1:3306/pretest?useUnicode=true&characterEncoding=euckr",
+							"root", "0415");
+			
+			java.sql.Statement st = null;
+			ResultSet rs = null;
+			st = con.createStatement();
+			rs = st.executeQuery("SHOW DATABASES");
+			String query = " insert into board (email, password, content, date_created)"
+					+ " values (?, ?, ?, ?)";
+			Calendar calendar = Calendar.getInstance();
+			java.sql.Date startDate = new java.sql.Date(calendar.getTime()
+					.getTime());
+
+			PreparedStatement preparedStmt = con.prepareStatement(query);
+			preparedStmt.setString(1, board.getEmail());
+			preparedStmt.setString(2, board.getPassword());
+			preparedStmt.setString(3, board.getContent());
+			preparedStmt.setString(4, startDate.toString());
+			preparedStmt.execute();
+
+			con.close();
+		} catch (SQLException ex) {
+			System.out.println("SQLException:" + ex);
+		} catch (Exception ex) {
+			System.out.println("Exception:" + ex);
+		}
+
+	}
+
+	public void getBoardList() {
+		// TODO Auto-generated method stub
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			con = DriverManager
+					.getConnection(
+							"jdbc:mysql://127.0.0.1:3306/pretest?useUnicode=true&characterEncoding=euckr",
+							"root", "0415");
+			
+			// our SQL SELECT query. 
+			// if you only need a few columns, specify them by name instead of using "*"
+			String query = "SELECT * FROM ";
+			
+			// create the java statement
+			Statement st = con.createStatement();
+			
+			// execute the query, and get a java resultset
+			ResultSet rs = st.executeQuery(query);
+			
+			// iterate through the java resultset
+			while (rs.next())
+			{
+				int id = rs.getInt("id");
+				String firstName = rs.getString("first_name");
+				String lastName = rs.getString("last_name");
+				
+				
+				// print the results
+				//System.out.format("%s, %s, %s, %s, %s, %s\n", id, firstName, lastName, dateCreated, isAdmin, numPoints);
+			}
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

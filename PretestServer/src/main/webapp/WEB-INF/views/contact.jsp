@@ -8,21 +8,18 @@
 <form:form method="POST" action="addContact.html">    
     <table>    
     <tr>       
-        <td><form:label path="firstname">First Name</form:label></td>       
-        <td><form:input path="firstname" /></td>     
+        <td><form:label path="email">Email</form:label></td>       
+        <td><form:input path="email" /></td>     
     </tr>      
     <tr>       
-        <td><form:label path="lastname">Last Name</form:label></td>     
-        <td><form:input path="lastname" /></td>   
+        <td><form:label path="password">Password</form:label></td>     
+        <td><form:input path="password" /></td>   
     </tr>    
     <tr>     
-        <td><form:label path="lastname">Email</form:label></td>     
-        <td><form:input path="email" /></td>   
+        <td ><form:label path="content">Content</form:label></td>     
+        <td ><form:input size="100" path="content" /></td>   
     </tr>   
-    <tr>      
-        <td><form:label path="lastname">Telephone</form:label></td>   
-        <td><form:input path="telephone" /></td>     
-    </tr>    
+        
     <tr>     
         <td colspan="2">        
             <input type="submit" value="Add Contact"/>    

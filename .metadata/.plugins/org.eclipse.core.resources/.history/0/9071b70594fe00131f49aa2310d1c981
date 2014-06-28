@@ -1,0 +1,19 @@
+<%@page import="java.util.ArrayList"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	import="java.util.List" pageEncoding="UTF-8"%>
+<%@ page import="com.NHNENTER.ToastRookie.Model.*"%>
+<% ArrayList<Board> boards = (ArrayList<Board>)request.getAttribute("boards"); 
+        int i=1 ; 
+       for(Board board : boards) { %>
+<form action="changeboard" method="post">
+	<tr>
+		<td><%= board.getContent() %></td>
+		<td><%= board.getEmail() %></td>
+		<td><%= board.getDate_created() %></td>
+		<input type="submit" value="작성">
+		<input type="reset" value="취소">
+
+	</tr>
+</form>
+<% } %>
+
