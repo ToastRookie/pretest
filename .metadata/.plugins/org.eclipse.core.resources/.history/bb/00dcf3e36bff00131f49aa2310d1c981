@@ -1,0 +1,18 @@
+<%@page import="java.util.ArrayList"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	import="java.util.List" pageEncoding="UTF-8"%>
+<%@ page import="com.NHNENTER.ToastRookie.Model.*"%>
+
+
+<%
+	Board board = (Board) request.getAttribute("board");
+%>
+<table>
+<tr>
+	Email  : <input readonly="readonly" name="email" value=<%=board.getEmail()%>>
+</tr>
+<tr>
+	<input name="password">
+</tr>
+</table>
+</html>

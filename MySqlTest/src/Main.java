@@ -11,11 +11,13 @@ public class Main {
 		// TODO Auto-generated method stub
 		Connection con;
 		try {
-			Class.forName("com.mysql.jdbc.Driver");
-			con = DriverManager
-					.getConnection(
-							"jdbc:mysql://127.0.0.1:3306/pretest?useUnicode=true&characterEncoding=euckr",
-							"root", "0415");
+			//Class.forName("com.mysql.jdbc.Driver");
+//			con = DriverManager
+//					.getConnection(
+//							"jdbc:mysql://127.0.0.1:3306/pretest?useUnicode=true&characterEncoding=euckr",
+//							"root", "0415");
+			Class.forName("cubrid.jdbc.driver.CUBRIDDriver");
+			con = DriverManager.getConnection("jdbc:CUBRID:localhost:30000:demodb:::","admin","admin");
 			System.out.println("데이터 베이스 접속이 성공했습니다.");
 			java.sql.Statement st = null;
 			ResultSet rs = null;

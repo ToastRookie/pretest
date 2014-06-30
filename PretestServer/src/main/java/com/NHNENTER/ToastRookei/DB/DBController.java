@@ -49,6 +49,44 @@ public class DBController {
 
 	}
 
+	public void changeBoard(Board board) {
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+
+			con = DriverManager
+					.getConnection(
+							"jdbc:mysql://127.0.0.1:3306/pretest?useUnicode=true&characterEncoding=euckr",
+							"root", "0415");
+
+			java.sql.Statement stmt = con.createStatement();
+
+			String dbCommand = "update board set content = '"
+					+ board.getContent() + "' where id = " + board.getId();
+
+			// 4) 쿼리문 실행 (반환값 integer type)
+			stmt.executeUpdate(dbCommand);
+			System.out.println("chagne");
+			Calendar calendar = Calendar.getInstance();
+			java.sql.Date startDate = new java.sql.Date(calendar.getTime()
+					.getTime());
+			dbCommand = "update board set date_changed  = '"
+					+ startDate + "' where id = " + board.getId();
+
+			// 4) 쿼리문 실행 (반환값 integer type)
+			stmt.executeUpdate(dbCommand);
+			System.out.println("chagne");
+			java.sql.Statement st = null;
+			ResultSet rs = null;
+			st = con.createStatement();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
 	public ArrayList<Board> getBoardList() {
 		// TODO Auto-generated method stub
 		ArrayList<Board> boards = new ArrayList<Board>();
@@ -60,7 +98,6 @@ public class DBController {
 							"jdbc:mysql://127.0.0.1:3306/pretest?useUnicode=true&characterEncoding=euckr",
 							"root", "0415");
 
-
 			String query = "SELECT * FROM board";
 
 			// create the java statement
@@ -68,24 +105,25 @@ public class DBController {
 
 			// execute the query, and get a java resultset
 			ResultSet rs = st.executeQuery(query);
-			
+
 			// iterate through the java resultset
 			while (rs.next()) {
 				Board board = new Board();
 				int id = rs.getInt("id");
-				
+
 				String email = rs.getString("email");
 				String password = rs.getString("password");
 				String content = rs.getString("content");
 				String date_created = rs.getString("date_created");
 				String date_changed = rs.getString("date_changed");
+				board.setId(id + "");
 				board.setEmail(email);
 				board.setContent(content);
 				board.setDate_created(date_created);
 				board.setDate_changed(date_changed);
 				board.setPassword(password);
 				boards.add(board);
-			
+
 			}
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block

@@ -1,0 +1,13 @@
+<%@page import="java.util.ArrayList"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	import="java.util.List" pageEncoding="UTF-8"%>
+<%@ page import="com.NHNENTER.ToastRookie.Model.*"%>
+
+
+<%
+	Board board = (Board) request
+			.getAttribute("board");
+	
+%>
+<input type="hidden" name="id" value=<%=board.getId()%>>
+</html>  

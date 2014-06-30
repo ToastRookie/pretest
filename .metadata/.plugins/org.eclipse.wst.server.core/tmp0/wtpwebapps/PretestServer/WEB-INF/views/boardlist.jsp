@@ -11,27 +11,34 @@
 <form action="changeboard" method="post">
 	<table>
 		<tr>
-
-			<td>내 용 : <%=board.getContent()%></td>
+			
+			<td><%=board.getId()%>. 내 용 : <%=board.getContent()%></td>
 		</tr>
 		<tr>
 
-			<td>작성자 : <%=board.getEmail()%></td>
-			<td>시 간 : <%=board.getDate_created()%></td>
-			<input type="hidden" name="id" value=<%=board.getEmail()%>>
+			<td>  작성자 : <%=board.getEmail()%></td>
+			<td>  시 간 : <%=board.getDate_created()%></td>
+			
+			<td>  수정시간 : <%=board.getDate_changed()%></td>
+			<input type="hidden" name="id" value=<%=board.getId()%>>
+			<input type="hidden" name="email" value=<%=board.getEmail()%>>
+			<input type="hidden" name="password" value=<%=board.getPassword()%>>
+			<input type="hidden" name="content" value=<%=board.getContent()%>>
+			
 			<td><input type="submit" value="수정하기"></td>
 
 		</tr>
 	</table>
 </form>
-<form action="addContact" method="post">
+
+<%
+	}
+%>
+
+<form action="contacts" method="post">
 
 	<td><input type="submit" value="방명록쓰기"></td>
 
 
 	</table>
 </form>
-<%
-	}
-%>
-

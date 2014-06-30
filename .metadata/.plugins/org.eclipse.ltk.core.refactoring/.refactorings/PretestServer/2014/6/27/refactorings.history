@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PretestServer/src/main/webapp/WEB-INF/views/changeboard&apos; to &apos;changeboard.jsp&apos;" description="Rename resource &apos;changeboard&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/changeboard" name="changeboard.jsp" stamp="1404030718470" updateReferences="true"/>
+</session>

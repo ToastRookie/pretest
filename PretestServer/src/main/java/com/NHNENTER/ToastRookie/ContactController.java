@@ -15,34 +15,32 @@ import com.NHNENTER.ToastRookie.Model.Board;
 import com.NHNENTER.ToastRookie.Model.Contact;
 
 @Controller
+
 class ContactController {
-
-	@RequestMapping(value = "/addContact", method = RequestMethod.POST)
-	public String addContact(@ModelAttribute("contact") Board board,
-			BindingResult result) {
-		System.out.println("Email:" + board.getEmail() + "   " + "Content:"
-				+ board.getContent());
-
-		DBController dbController = new DBController();
-		dbController.insertBoard(board);
-		return "redirect:contacts.html";
-	}
+	
+    @RequestMapping(value = "/addContact", method = RequestMethod.POST)   
+    public String addContact(@ModelAttribute("contact")   
+                        Board board, BindingResult result) {       
+        System.out.println("Email:" + board.getEmail() + "   "+            
+                        "Content:" + board.getContent());
+        
+        DBController dbController = new DBController();
+        dbController.insertBoard(board);
+        return "redirect:boardlist.html";      
+    }     
+    
 
 	@RequestMapping("/contacts")
 	public ModelAndView showContacts() {
 		return new ModelAndView("contact", "command", new Board());
 	}
-
 	@RequestMapping("/boardlist")
 	public ModelAndView showContacts(ModelMap map) {
-		ArrayList<Board> boards;
+		ArrayList<Board> boards ;
 		DBController dbController = new DBController();
 		boards = dbController.getBoardList();
 		map.put("boards", boards);
 		return new ModelAndView("boardlist", "command", new Board());
 	}
 
-	static public void loadSelectLecture() {
-		System.out.println("asdasdasdasdsa");
-	}
 }
