@@ -13,7 +13,6 @@
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
-<fullyQualifiedTypeName name="com.NHNENTER.ToastRookei.DB.DBController"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="java.sql.Statement"/>
@@ -21,6 +20,8 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-<fullyQualifiedTypeName name="com.NHNENTER.ToastRookie.Model.Board"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.NHNENTER.ToastRookie.BoardController"/>
+<fullyQualifiedTypeName name="com.NHNENTER.ToastRookei.DB.DBController"/>
+<fullyQualifiedTypeName name="com.NHNENTER.ToastRookie.Model.Board"/>
 </qualifiedTypeNameHistroy>

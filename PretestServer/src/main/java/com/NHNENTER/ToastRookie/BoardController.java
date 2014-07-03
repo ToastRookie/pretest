@@ -48,8 +48,7 @@ public class BoardController {
 		if(password.equals(originalpassword)){
 			new DBController().changeBoard(changeBoard);
 		}
-		
-		
+				
 		 return "redirect:boardlist.html"; 
 	}
 }

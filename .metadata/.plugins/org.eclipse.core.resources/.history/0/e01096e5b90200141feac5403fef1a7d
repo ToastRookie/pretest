@@ -1,0 +1,7 @@
+package com.NHNENTER.ToastRookie;
+
+
+
+@Controller
+@RequestMapping(value = "/article")
+public class ArticleController {}

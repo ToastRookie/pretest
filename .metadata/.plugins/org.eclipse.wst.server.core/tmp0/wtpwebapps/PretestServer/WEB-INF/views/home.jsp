@@ -1,16 +1,17 @@
-
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<%@ page session="false" %>
-
-<html>
-<head>
-	<title>Home</title>
-</head>
-<body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
-</body>
-</html>
+<div id="ctrl-exmpl" ng-controller="SettingsController2">
+  Name: <input type="text" ng-model="name"/>
+  [ <a href="" ng-click="greet()">greet</a> ]<br/>
+  Contact:
+  <ul>
+    <li ng-repeat="contact in contacts">
+      <select ng-model="contact.type">
+         <option>phone</option>
+         <option>email</option>
+      </select>
+      <input type="text" ng-model="contact.value"/>
+      [ <a href="" ng-click="clearContact(contact)">clear</a>
+      | <a href="" ng-click="removeContact(contact)">X</a> ]
+    </li>
+    <li>[ <a href="" ng-click="addContact()">add</a> ]</li>
+ </ul>
+</div>
