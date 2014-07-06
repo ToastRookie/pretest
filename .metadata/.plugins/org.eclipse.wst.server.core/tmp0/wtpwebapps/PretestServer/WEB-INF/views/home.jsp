@@ -1,9 +1,12 @@
 <!DOCTYPE html>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	import="java.util.List" pageEncoding="UTF-8"%>
 <html ng-app>
 <head>
 <title>Hello World, AngularJS - ViralPatel.net</title>
 <script type="text/javascript"
 	src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+	
 </head>
 <body>
 	<div ng-controller="BoardController">
@@ -12,24 +15,42 @@
 		<h2>EmailList</h2>
 
 		<ul>
-			<li ng-repeat="email in emails">{{ email }}</li>
+			<li ng-repeat="board in boards">
+				<div class="article-head">
+					<h4 class="media-heading">
+						<tr>{{board.email}} <a class="article-time"
+							title="Modified by {{article.modtime}}">작성일
+							{{board.date_created}}</a>
+							</tr> 
+							<tr>내용 {{board.content}}</tr>
+						<button class="btn btn-danger pull-left"
+							ng-click="changeEmail(board)">수정하</button>
+					</h4>
+				</div>
+			</li>
 		</ul>
-	
+
 	</div>
 
 
 	<script type="text/javascript">
 		var BoardController = function($scope, $http) {
-			$scope.emails = [ "kunyoungsin@naver.com"];
+			$scope.boards;
 			$scope.addEmail = function() {
-				$http.get('addEmail').success(function(emailList) {
-					
-					$scope.emails = emailList;
+				$http.get('addEmail').success(function(protocoldata) {
+					$scope.boards = protocoldata.boards;
+				});
+			};
+			$scope.changeEmail = function(board) {
+				$http({
+					method : 'POST',
+					url : 'changeboard',
+					data : article
 				});
 			};
 		};
 	</script>
-<!-- 		<script type="text/javascript">
+	<!-- 		<script type="text/javascript">
 		function FetchCtrl($scope, $http, $templateCache) {
 			$scope.method = 'GET';
 			$scope.url = 'addEmail';

@@ -16,6 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.NHNENTER.ToastRookei.DB.DBController;
 import com.NHNENTER.ToastRookie.Model.Board;
+import com.NHNENTER.ToastRookie.Model.ProtocolData;
 @Controller
 public class BoardController {
 	@RequestMapping(value = "/changeboard", method = RequestMethod.POST)
@@ -58,19 +59,14 @@ public class BoardController {
 	@RequestMapping(value = "/addEmail",method = RequestMethod.GET)
 	@ResponseBody
 
-	public ArrayList<Board> boardtest() {
+	public ProtocolData boardtest() {
 		 
-//		List<String> emails = new ArrayList<String>();
-//		emails.add("123@naver.com");
-//		emails.add("000@naver.com");
-//		emails.add("asd.naver.com");
-//		for(String email : emails){
-//			System.out.println(email+"aa");
-//		}
 		ArrayList<Board> boards ;
 		DBController dbController = new DBController();
 		boards = dbController.getBoardList();
-		
-		return boards;
+		ProtocolData protocolData = new ProtocolData();
+		protocolData.setBoards(boards);
+		protocolData.setResult(ProtocolData.FAIL);
+		return protocolData;
 	}
 }
