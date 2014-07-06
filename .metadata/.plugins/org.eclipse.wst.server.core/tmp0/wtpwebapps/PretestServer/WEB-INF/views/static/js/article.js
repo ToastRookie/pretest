@@ -1,4 +1,4 @@
-function Article() {
+function w() {
 	this.no = null;
 	this.email = null;
 	this.password = null;

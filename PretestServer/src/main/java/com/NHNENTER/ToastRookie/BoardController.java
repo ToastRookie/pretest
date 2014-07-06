@@ -1,6 +1,7 @@
 package com.NHNENTER.ToastRookie;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -10,6 +11,7 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.NHNENTER.ToastRookei.DB.DBController;
@@ -50,5 +52,25 @@ public class BoardController {
 		}
 				
 		 return "redirect:boardlist.html"; 
+	}
+	
+	
+	@RequestMapping(value = "/addEmail",method = RequestMethod.GET)
+	@ResponseBody
+
+	public ArrayList<Board> boardtest() {
+		 
+//		List<String> emails = new ArrayList<String>();
+//		emails.add("123@naver.com");
+//		emails.add("000@naver.com");
+//		emails.add("asd.naver.com");
+//		for(String email : emails){
+//			System.out.println(email+"aa");
+//		}
+		ArrayList<Board> boards ;
+		DBController dbController = new DBController();
+		boards = dbController.getBoardList();
+		
+		return boards;
 	}
 }

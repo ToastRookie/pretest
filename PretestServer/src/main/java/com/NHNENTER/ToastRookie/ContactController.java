@@ -34,7 +34,7 @@ class ContactController {
 	public ModelAndView showContacts() {
 		return new ModelAndView("contact", "command", new Board());
 	}
-	@RequestMapping("/boardlist")
+	@RequestMapping("/boardtest")
 	public ModelAndView showContacts(ModelMap map) {
 		ArrayList<Board> boards ;
 		DBController dbController = new DBController();

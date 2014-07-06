@@ -5711,3 +5711,2581 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-03 23:13:46.438
 !MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-03 23:25:53.358
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-03 23:25:53.361
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:10:05.866
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:10:05.869
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:10:20.535
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:10:20.538
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:12:56.392
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:12:56.395
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:13:11.361
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:13:11.363
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:13:44.875
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:13:44.878
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:20:43.824
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:20:43.826
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:20:48.903
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:20:48.905
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:21:28.385
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:21:28.388
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:22:21.884
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:22:21.887
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:23:27.649
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:23:27.651
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:23:41.857
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:23:41.859
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:23:51.974
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:23:51.976
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:24:22.034
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:24:22.037
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:24:39.631
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:24:39.634
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:25:19.832
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:25:19.835
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:25:29.180
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:25:29.184
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:25:59.191
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:25:59.194
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:26:18.413
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:26:18.415
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:26:26.345
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:26:26.347
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:26:52.267
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:26:52.269
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:27:00.014
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:27:00.017
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:46:10.300
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:46:10.307
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:46:11.731
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:46:11.774
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:46:12.828
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:46:12.831
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.core.resources 4 2 2014-07-05 17:47:00.061
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.ReferenceBinding.binarySearch(ReferenceBinding.java:104)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.SourceTypeBinding.getMethods0(SourceTypeBinding.java:673)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.SourceTypeBinding.getMethods(SourceTypeBinding.java:635)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.ArrayBinding.getMethods(ArrayBinding.java:243)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.Scope.getConstructor(Scope.java:1358)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AllocationExpression.resolveType(AllocationExpression.java:164)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:279)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.ReturnStatement.resolve(ReturnStatement.java:146)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:350)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:137)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:304)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:375)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:394)
+	at org.eclipse.wst.jsdt.internal.compiler.Compiler.process(Compiler.java:607)
+	at org.eclipse.wst.jsdt.internal.compiler.Compiler.compile(Compiler.java:355)
+	at org.eclipse.wst.jsdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:288)
+	at org.eclipse.wst.jsdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:306)
+	at org.eclipse.wst.jsdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:227)
+	at org.eclipse.wst.jsdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:134)
+	at org.eclipse.wst.jsdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:302)
+	at org.eclipse.wst.jsdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:214)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:47:18.288
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:47:18.293
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:47:18.305
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:47:19.402
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:47:19.405
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 2 2014-07-05 17:47:19.531
+!MESSAGE Problems occurred when invoking code from plug-in: "org.springframework.ide.eclipse.beans.core".
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 0 2014-07-05 17:47:19.532
+!MESSAGE Internal Error
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.eclipse.core.resources 4 2 2014-07-05 17:47:44.344
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.ReferenceBinding.binarySearch(ReferenceBinding.java:104)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.SourceTypeBinding.getMethods0(SourceTypeBinding.java:653)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.SourceTypeBinding.getMethods(SourceTypeBinding.java:635)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.ArrayBinding.getMethods(ArrayBinding.java:243)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.Scope.getConstructor(Scope.java:1358)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AllocationExpression.resolveType(AllocationExpression.java:164)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:279)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.ReturnStatement.resolve(ReturnStatement.java:146)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:350)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:137)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:304)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:375)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:394)
+	at org.eclipse.wst.jsdt.internal.compiler.Compiler.process(Compiler.java:607)
+	at org.eclipse.wst.jsdt.internal.compiler.Compiler.compile(Compiler.java:355)
+	at org.eclipse.wst.jsdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:288)
+	at org.eclipse.wst.jsdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:306)
+	at org.eclipse.wst.jsdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:227)
+	at org.eclipse.wst.jsdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:134)
+	at org.eclipse.wst.jsdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:302)
+	at org.eclipse.wst.jsdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:214)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:47:44.350
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:47:44.353
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.core.resources 4 75 2014-07-05 17:47:44.373
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 org.eclipse.wst.jsdt.core 4 75 2014-07-05 17:47:44.373
+!MESSAGE Errors running builder 'JavaScript Validator' on project 'asfasf'.
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.ReferenceBinding.binarySearch(ReferenceBinding.java:104)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.SourceTypeBinding.getMethods0(SourceTypeBinding.java:653)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.SourceTypeBinding.getMethods(SourceTypeBinding.java:635)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.ArrayBinding.getMethods(ArrayBinding.java:243)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.Scope.getConstructor(Scope.java:1358)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AllocationExpression.resolveType(AllocationExpression.java:164)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:279)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.ReturnStatement.resolve(ReturnStatement.java:146)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:350)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:137)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:304)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:375)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:394)
+	at org.eclipse.wst.jsdt.internal.compiler.Compiler.process(Compiler.java:607)
+	at org.eclipse.wst.jsdt.internal.compiler.Compiler.compile(Compiler.java:355)
+	at org.eclipse.wst.jsdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:288)
+	at org.eclipse.wst.jsdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:306)
+	at org.eclipse.wst.jsdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:227)
+	at org.eclipse.wst.jsdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:134)
+	at org.eclipse.wst.jsdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:302)
+	at org.eclipse.wst.jsdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:214)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:48:15.670
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:48:15.673
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2014-07-05 17:49:08.617
+!MESSAGE Several ports (8080, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2014-07-05 17:49:11.796
+!MESSAGE Several ports (8080, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2014-07-05 17:49:12.865
+!MESSAGE Several ports (8080, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.944
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.945
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.945
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.945
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.945
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.946
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.946
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.946
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.947
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.947
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:26.947
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 2 2014-07-05 17:50:26.960
+!MESSAGE Problems occurred when invoking code from plug-in: "org.springframework.ide.eclipse.beans.core".
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 0 2014-07-05 17:50:26.961
+!MESSAGE Internal Error
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.209
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.213
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.214
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.214
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.215
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.215
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.216
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.217
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.218
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.218
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.219
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.220
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.220
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.221
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.221
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.222
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.223
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.223
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.224
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.224
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.225
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-05 17:50:27.226
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:50:27.410
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 17:50:27.415
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.605
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-cookies.min.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.606
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-resource.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.607
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-sanitize.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.607
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/version.txt error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.607
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-resource.min.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.608
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.608
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.609
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular.min.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.610
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-loader.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.610
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-cookies.js error in opening zip file
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2014-07-05 17:50:28.610
+!MESSAGE Taglib Index ZipException: /Users/Kunyoung/Desktop/NHN/Pretest/asfasf/src/main/webapp/resources/js/lib/angular/angular-loader.min.js error in opening zip file
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:03.245
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:03.247
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:12.264
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:12.267
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:20.619
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:20.621
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:37.259
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:37.261
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:56.119
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:01:56.120
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:06.474
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:06.475
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:07.930
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:07.932
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:14.834
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:14.836
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:58.557
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:02:58.558
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:03:52.170
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:03:52.172
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:03:53.220
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:03:53.221
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:05:20.345
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:05:20.347
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:05:49.164
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:05:49.167
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:06:02.841
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:06:02.844
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:06:36.370
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:06:36.374
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:07:09.833
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:07:09.836
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:07:49.003
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:07:49.012
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:08:27.792
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:08:27.797
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2014-07-05 18:08:44.551
+!MESSAGE Port 8080 required by Tomcat v7.0 Server at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:08.481
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:08.483
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:38.793
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:38.795
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:55.067
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:55.070
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:57.097
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:09:57.099
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:10:01.703
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:10:01.705
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:10:34.278
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:10:34.281
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:10.872
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:10.875
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:23.081
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:23.084
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:38.160
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:38.163
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:49.134
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:11:49.136
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:06.949
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:06.951
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:17.335
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:17.337
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:30.031
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:30.033
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:52.303
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:12:52.305
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:13:15.752
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:13:15.754
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:13:36.569
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:13:36.572
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:13:44.749
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:13:44.750
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:15:56.567
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:15:56.569
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:15:59.567
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:15:59.569
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 4 0 2014-07-05 18:16:58.034
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+org.eclipse.wst.jsdt.internal.codeassist.select.SelectionNodeFound
+	at org.eclipse.wst.jsdt.internal.codeassist.select.SelectionOnArgumentName.bind(SelectionOnArgumentName.java:29)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.bindArguments(AbstractMethodDeclaration.java:141)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope$DeclarationVisitor.visit(CompilationUnitScope.java:114)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:165)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.CompilationUnitDeclaration.traverse(CompilationUnitDeclaration.java:584)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.CompilationUnitDeclaration.traverse(CompilationUnitDeclaration.java:545)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.buildTypeBindings(CompilationUnitScope.java:392)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.buildTypeBindings(LookupEnvironment.java:320)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.buildTypeBindings(LookupEnvironment.java:316)
+	at org.eclipse.wst.jsdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:729)
+	at org.eclipse.wst.jsdt.internal.core.Openable.codeSelect(Openable.java:167)
+	at org.eclipse.wst.jsdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:318)
+	at org.eclipse.wst.jsdt.web.core.javascript.JsTranslation.getElementsFromJsRange(JsTranslation.java:302)
+	at org.eclipse.wst.jsdt.web.core.javascript.JsTranslation.getElementsFromWebRange(JsTranslation.java:323)
+	at org.eclipse.wst.jsdt.web.ui.internal.taginfo.JSDTHoverProcessor.getHoverInfo(JSDTHoverProcessor.java:106)
+	at org.eclipse.wst.sse.ui.internal.taginfo.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:18:22.627
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:18:22.629
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:28:08.525
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:28:08.529
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:28:57.102
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:28:57.106
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:29:14.717
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:29:14.721
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:29:19.341
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:29:19.344
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:00.650
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:00.654
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:37.430
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:37.432
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:39.644
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:39.647
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:41.910
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:30:41.912
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:31:02.071
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:31:02.074
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:31:05.812
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:31:05.815
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:31:49.649
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:31:49.652
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:32:24.374
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:32:24.377
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:32:40.919
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:32:40.921
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:33:51.283
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:33:51.285
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:33:53.691
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:33:53.693
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:34:52.945
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:34:52.948
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:35:13.822
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:35:13.824
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:35:42.427
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:35:42.429
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:35:58.848
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:35:58.851
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:36:05.755
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:36:05.757
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:21.122
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:21.125
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:25.180
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:25.182
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:40.598
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:40.600
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:56.887
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:37:56.889
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:15.379
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:15.382
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:19.056
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:19.058
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:38.639
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:38.642
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:52.282
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:38:52.284
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:41:53.021
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:41:53.023
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:00.746
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:00.749
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:15.779
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:15.780
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:26.398
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:26.400
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:58.219
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:42:58.222
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:43:00.244
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:43:00.247
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:43:21.824
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:43:21.828
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:45:24.866
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:45:24.878
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:46:08.864
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:46:08.868
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:46:35.163
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:46:35.166
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:46:37.316
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:46:37.318
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:20.117
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:20.120
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:22.393
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:22.396
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:38.692
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:38.695
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:49.434
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:49.436
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:58.698
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:47:58.700
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:48:10.435
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:48:10.437
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:48:37.228
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:48:37.230
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:49:34.199
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:49:34.201
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:49:35.693
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:49:35.695
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:52:06.619
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:52:06.621
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:53:36.152
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:53:36.154
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:53:43.587
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:53:43.589
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:54:05.870
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:54:05.874
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:54:39.464
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:54:39.466
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:54:57.395
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:54:57.397
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:55:22.838
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:55:22.841
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:55:43.980
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:55:43.982
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:56:02.095
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:56:02.098
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:56:13.394
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:56:13.396
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:56:31.337
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:56:31.341
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:57:00.002
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 18:57:00.006
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:01:30.709
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:01:30.711
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:02:08.613
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:02:08.615
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:03:13.112
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:03:13.115
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:03:23.755
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:03:23.758
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:04:10.246
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:04:10.251
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:04:15.036
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:04:15.039
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:04:56.332
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:04:56.335
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:05:18.044
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:05:18.047
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:06:06.998
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:06:07.000
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:06:49.109
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:06:49.112
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:07:00.126
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:07:00.128
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:13:16.900
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:13:16.902
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:13:36.449
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:13:36.453
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:13:44.677
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:13:44.680
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:05.106
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:05.108
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:16.719
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:16.721
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:19.701
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:19.704
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:24.451
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:24.453
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:54.572
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:14:54.575
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:15:28.809
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:15:28.811
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:16:44.459
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:16:44.461
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:16:58.407
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:16:58.410
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:17:58.889
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:17:58.892
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:18:21.867
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:18:21.870
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:18:50.895
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:18:50.897
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:19:05.340
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:19:05.343
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:25:09.710
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:25:09.713
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:25:58.469
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:25:58.472
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:26:38.581
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:26:38.583
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:27:05.856
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:27:05.859
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:27:16.603
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:27:16.605
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:27:47.432
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:27:47.434
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:30:57.322
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:30:57.324
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:31:05.191
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:31:05.193
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:31:07.717
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:31:07.718
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:31:28.051
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:31:28.055
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:03.043
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:03.045
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:07.046
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:07.048
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:14.097
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:14.098
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:19.420
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:19.422
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:34.427
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-05 19:32:34.430
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:19:39.079
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:19:39.084
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2014-07-06 15:24:34.589 -----------------------------------------------
+eclipse.buildId=3.3.0.201307091644-RELEASE-e43
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-07-06 15:27:27.483
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.136
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.137
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.138
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.139
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.140
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.140
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.141
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.141
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.142
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.143
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.144
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.144
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.145
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.146
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.147
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.147
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.148
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.149
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.150
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.151
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.152
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:27:53.152
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:24.973
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:24.993
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 2 2014-07-06 15:29:26.735
+!MESSAGE Problems occurred when invoking code from plug-in: "org.springframework.ide.eclipse.beans.core".
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 0 2014-07-06 15:29:26.737
+!MESSAGE Internal Error
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:38.799
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:38.811
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:46.132
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:46.136
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:48.869
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:29:48.874
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:30:02.967
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:30:02.970
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2014-07-06 15:30:14.548
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2014-07-06 15:32:37.046
+!MESSAGE Port 8080 required by Tomcat v7.0 Server at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+!SESSION 2014-07-06 15:32:46.940 -----------------------------------------------
+eclipse.buildId=3.3.0.201307091644-RELEASE-e43
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-07-06 15:36:20.825
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:36:29.213
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:36:29.236
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.347
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.348
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.354
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.354
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.355
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.355
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.355
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.356
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.356
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.356
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:31.357
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 2 2014-07-06 15:36:33.507
+!MESSAGE Problems occurred when invoking code from plug-in: "org.springframework.ide.eclipse.beans.core".
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 0 2014-07-06 15:36:33.510
+!MESSAGE Internal Error
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.500
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.500
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.507
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.508
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.509
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.509
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.510
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.510
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.511
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.512
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.513
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.513
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.514
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.515
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.516
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.516
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.517
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.518
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.519
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.519
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.520
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:36:38.523
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2014-07-06 15:37:03.668
+!MESSAGE Port 8080 required by VMware vFabric tc Server Developer Edition v2.9 is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.jface 2 0 2014-07-06 15:40:25.130
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-06 15:40:25.130
+!MESSAGE A conflict occurred for ALT+ARROW_DOWN:
+Binding(ALT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.goToNextUnread,Go To Next Unread Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@353353ab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.mylyn.tasks.ui.views.tasks,,,system)
+Binding(ALT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.moveLineDown,Move Lines Down,
+		Moves the selected lines down,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@35263820,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-06 15:40:25.130
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@602ed822,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.showToolTip,Show Tooltip Description,
+		,
+		Category(org.eclipse.mylyn.tasks.ui.commands,Task Repositories,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@236fd183,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.mylyn.tasks.ui.views.tasks,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@22401a2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javascriptViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-06 15:40:25.130
+!MESSAGE A conflict occurred for INSERT:
+Binding(INSERT,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.new.local.task,New Local Task,
+		,
+		Category(org.eclipse.mylyn.tasks.ui.commands,Task Repositories,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@9e733c7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.mylyn.tasks.ui.views.tasks,,,system)
+Binding(INSERT,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.toggleOverwrite,Toggle Overwrite,
+		Toggle overwrite mode,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@29f852e5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-06 15:40:25.130
+!MESSAGE A conflict occurred for ALT+ARROW_UP:
+Binding(ALT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.goToPreviousUnread,Go To Previous Unread Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@30ecf88d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.mylyn.tasks.ui.views.tasks,,,system)
+Binding(ALT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.moveLineUp,Move Lines Up,
+		Moves the selected lines up,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6e0a4de9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2014-07-06 15:44:04.568
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.jst.server.core 4 0 2014-07-06 15:44:27.779
+!MESSAGE Could not launch in profiling mode because no profilers are configured.
+
+!ENTRY org.eclipse.jface 2 0 2014-07-06 15:44:28.959
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-06 15:44:28.959
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.run,Run,
+		Run server,
+		Category(org.eclipse.wst.server.ui,Server,Server,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@21289567,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.serverViewScope,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f68ae32,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.wst.jsdt.ui.category.refactoring,Refactor - JavaScript,JavaScript Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@41848dc2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javascriptViewScope,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-07-06 15:44:28.959
+!MESSAGE A conflict occurred for ALT+COMMAND+S:
+Binding(ALT+COMMAND+S,
+	ParameterizedCommand(Command(org.eclipse.wst.server.stop,Stop,
+		Stop the server,
+		Category(org.eclipse.wst.server.ui,Server,Server,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6576dd28,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.serverViewScope,,,system)
+Binding(ALT+COMMAND+S,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu,Show Source Quick Menu,
+		Shows the source quick menu,
+		Category(org.eclipse.wst.jsdt.ui.category.source,Source,JavaScript Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5eb1a122,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javascriptViewScope,,cocoa,system)
+Binding(ALT+COMMAND+S,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.source.quickMenu,Show Source Quick Menu,
+		Shows the source quick menu,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5fc9efbf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SESSION 2014-07-06 15:45:51.669 -----------------------------------------------
+eclipse.buildId=3.3.0.201307091644-RELEASE-e43
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-07-06 15:46:01.453
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:46:10.330
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 15:46:10.349
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.361
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.362
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.370
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.370
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.371
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.371
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.372
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.372
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.373
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.373
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:12.373
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 2 2014-07-06 15:46:13.603
+!MESSAGE Problems occurred when invoking code from plug-in: "org.springframework.ide.eclipse.beans.core".
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 0 2014-07-06 15:46:13.605
+!MESSAGE Internal Error
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.786
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.786
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.794
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.794
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.795
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.796
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.797
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.797
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.799
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.799
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.800
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.801
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.802
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.803
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.804
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.805
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.806
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.807
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.808
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.809
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.813
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:46:20.814
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2014-07-06 15:53:54.288
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+!SESSION 2014-07-06 15:54:18.253 -----------------------------------------------
+eclipse.buildId=3.3.0.201307091644-RELEASE-e43
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.sts.ide -keyring /Users/Kunyoung/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-07-06 15:54:32.513
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.441
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.442
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.447
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.448
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.448
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.449
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.449
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.449
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.450
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.450
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:42.451
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 2 2014-07-06 15:54:42.468
+!MESSAGE Problems occurred when invoking code from plug-in: "org.springframework.ide.eclipse.beans.core".
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.springframework.ide.eclipse.beans.core 4 0 2014-07-06 15:54:42.470
+!MESSAGE Internal Error
+!STACK 0
+java.lang.NoClassDefFoundError: javax/servlet/ServletException
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:792)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2521)
+	at java.lang.Class.getDeclaredMethods(Class.java:1845)
+	at org.springframework.core.type.StandardAnnotationMetadata.hasAnnotatedMethods(StandardAnnotationMetadata.java:130)
+	at org.springframework.context.annotation.ConfigurationClassUtils.isLiteConfigurationCandidate(ConfigurationClassUtils.java:109)
+	at org.springframework.context.annotation.ConfigurationClassUtils.checkConfigurationClassCandidate(ConfigurationClassUtils.java:87)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:259)
+	at org.springframework.ide.eclipse.metadata.process.JdtConfigurationClassPostProcessor.postProcess(JdtConfigurationClassPostProcessor.java:86)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$4.run(BeansConfig.java:749)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.executePostProcessor(BeansConfig.java:742)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.postProcess(BeansConfig.java:626)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig.access$8(BeansConfig.java:585)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:451)
+	at org.springframework.ide.eclipse.beans.core.internal.model.BeansConfig$3.call(BeansConfig.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.ServletException
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 32 more
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.917
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.918
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.924
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.925
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-cookies.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.925
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.925
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.926
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.926
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-loader.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.927
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.927
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.928
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.929
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-resource.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.930
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.930
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.931
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.931
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular-sanitize.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.932
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.933
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.934
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.934
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/angular.min.js [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.936
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.jdt.core 4 0 2014-07-06 15:54:56.936
+!MESSAGE Invalid ZIP archive: src/main/webapp/resources/js/lib/angular/version.txt [in asfasf]
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2014-07-06 15:55:58.672
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2014-07-06 15:56:00.835
+!MESSAGE Exception while initializing all containers
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/asfasf' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:147)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:221)
+	at org.eclipse.core.internal.resources.Resource.touch(Resource.java:1943)
+	at org.eclipse.core.internal.resources.Project.touch(Project.java:1405)
+	at org.eclipse.wst.jsdt.internal.core.SetContainerOperation.execute(SetContainerOperation.java:122)
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.setJsGlobalScopeContainer(JavaScriptCore.java:3900)
+	at org.eclipse.wst.jsdt.launching.JREContainerInitializer.initialize(JREContainerInitializer.java:46)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:2207)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager$8.run(JavaModelManager.java:2137)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.initializeAllContainers(JavaModelManager.java:2153)
+	at org.eclipse.wst.jsdt.internal.core.JavaModelManager.getJsGlobalScopeContainer(JavaModelManager.java:1530)
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.getJsGlobalScopeContainer(JavaScriptCore.java:1319)
+	at org.eclipse.wst.jsdt.internal.core.JavaProject.resolveClasspath(JavaProject.java:2740)
+	at org.eclipse.wst.jsdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2019)
+	at org.eclipse.wst.jsdt.core.JavaScriptCore.initializeAfterLoad(JavaScriptCore.java:2655)
+	at org.eclipse.wst.jsdt.internal.ui.InitializeAfterLoadJob$RealJob.run(InitializeAfterLoadJob.java:32)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2014-07-06 15:56:00.836
+!MESSAGE Resource '/asfasf' does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:11:37.695
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:11:37.710
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:15:18.980
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:15:18.985
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:15:22.033
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:15:22.037
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:17:11.276
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:17:11.281
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:18:15.342
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:18:15.345
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:18:39.909
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:18:39.911
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:18:48.515
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:18:48.518
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:19:11.841
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:19:11.845
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:20:01.265
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:20:01.268
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:24:05.603
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:24:05.606
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:24:31.402
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:24:31.410
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:25:13.712
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:25:13.715
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:41:13.209
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:41:13.210
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:41:45.751
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:41:45.759
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:44:21.056
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:44:21.059
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:51:15.348
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:51:15.353
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:52:54.650
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2014-07-06 16:52:54.654
+!MESSAGE Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!

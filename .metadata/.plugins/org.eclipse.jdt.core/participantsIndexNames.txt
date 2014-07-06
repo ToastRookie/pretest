@@ -1,3 +1,5 @@
 INDEX VERSION 1.126
+/Users/Kunyoung/Desktop/NHN/Pretest/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1444185643.index
+/asfasf/src/main/java
 /Users/Kunyoung/Desktop/NHN/Pretest/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1211828973.index
 /PretestServer/src/main/java
